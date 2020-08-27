@@ -1,0 +1,8 @@
+﻿Email : To find error in bot
+Attachment: System.Net.Mail.AttachmentCollection
+Email : Try for RPA
+Attachment: System.Net.Mail.AttachmentCollection
+Email : [GitHub] A personal access token has been added to your account
+Attachment: System.Net.Mail.AttachmentCollection
+Email : [GitHub] Please verify your device
+Attachment: System.Net.Mail.AttachmentCollection
